@@ -15,7 +15,7 @@ public class soma {
         int soma = num1 + num2;
 
         System.out.println("A soma é: " + soma);
-
+        //a
         scanner.close();
     }
 }
